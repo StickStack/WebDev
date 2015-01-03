@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slides xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="SliderSchema.xsd">
+  <slide>
+    <title>title</title>
+    <subject>subject</subject>
+    <content>content</content>
+    <closing>closing</closing>
+    <slide_number>1</slide_number>
+  </slide>
+  <slide>
+  	<title>title2</title>
+    <subject>subject2</subject>
+    <content>content2</content>
+    <closing>closing2</closing>
+    <slide_number>2</slide_number>
+  </slide>
+</slides>
